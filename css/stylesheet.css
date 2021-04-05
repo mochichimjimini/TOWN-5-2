@@ -1,0 +1,27 @@
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 56px; 
+    color: #41393d;
+    }
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    color:#be1e2d;
+    }
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    }
+table {
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+    }
+ul {  
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    }
+fieldset {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    }
